@@ -31,8 +31,8 @@ your_project/
 ### ✅ 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/Mohammad-Reza-Hemmati/smrf-tmdi-ml-gui-app.git
+cd smrf-tmdi-ml-gui-app.git
 ````
 
 ### ✅ 2. Set up a Virtual Environment (recommended)
